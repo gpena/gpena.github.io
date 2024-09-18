@@ -1,2 +1,1 @@
-# bramble.github.io
-Bramble
+# Bramble documentation
